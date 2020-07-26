@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVVMDemo</string>
+    <string name="nick_name">nick_name:</string>
+    <string name="load_image">加载图片Activity</string>
+    <string name="list_show">列表显示Activity</string>
+</resources>
